@@ -8,13 +8,7 @@ Software Used for Simulation: [Cisco Packet Tracer](https://www.netacad.com/cour
 
 ### Topology:
 
-[Will be updated after August 20, 2023]
-<!-- <p><img src="https://github.com/ExGranite/the-kingdom-of-holfort/blob/main/Topology.png"></p> -->
-
-
-### Networks:
-
-[Will be updated after August 20, 2023]
+<p><img src="https://github.com/ExGranite/unknown-organization/blob/main/Topology.png"></p>
 
 
 ### License
